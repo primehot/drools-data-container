@@ -5,7 +5,7 @@ import com.sample.Message;
 rule "Init"
     when
     then
-        System.out.println( "Init rule fired! New one new");
+        System.out.println( "Init rule fired! New one new from IntelligIdea");
 end
  
 rule "Hello World"
